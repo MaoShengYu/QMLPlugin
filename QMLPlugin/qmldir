@@ -1,0 +1,2 @@
+module MyPlugin
+plugin QMLPlugin
